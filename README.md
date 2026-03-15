@@ -30,6 +30,7 @@ The macro allows you to schedule automatic key presses for slots 1–7 with cust
 - Make sure the app is running and permissions are enabled; otherwise, the macro won’t function.
 
 **Links**
+
 YouTube: https://www.youtube.com/@TheHoneyBeeBSS
 
 Discord: WIP
