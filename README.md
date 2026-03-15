@@ -1,6 +1,7 @@
 **_Honey Macro_**
 
 **Boosting Assistance Macro – made by Honey Bee**
+
 A lightweight macOS macro designed to automate item usage while boosting in Bee Swarm.
 The macro allows you to schedule automatic key presses for slots 1–7 with custom intervals, so you can focus on gameplay while the macro handles the repetitive actions.
 
