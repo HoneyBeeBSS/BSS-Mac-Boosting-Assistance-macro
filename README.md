@@ -31,8 +31,9 @@ The macro allows you to schedule automatic key presses for slots 1–7 with cust
 
 **Links**
 YouTube: https://www.youtube.com/@TheHoneyBeeBSS
+
 Discord: WIP
 
-Credits
+
 
 Made by Honey Bee 🐝
